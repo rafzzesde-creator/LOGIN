@@ -26,6 +26,24 @@
       "status": "active",
       "created_date": "2099-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "fior imut cewe lenzar",
+      "device_id": "325e1490-65e1-4f43-8649-510f0de63bc1",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "KONTOL",
+      "device_id": "707e52b5-34e1-4f92-80ec-dac8982bad6c",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
     }
   ]
 }
