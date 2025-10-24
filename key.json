@@ -17,6 +17,15 @@
       "status": "active",
       "created_date": "2099-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "Salsa110207",
+      "device_id": "d44bc2a3-f93f-48f6-a293-fcbedf8d33ea",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
     }
   ]
 }
