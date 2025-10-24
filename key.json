@@ -44,6 +44,24 @@
       "status": "active",
       "created_date": "2099-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "sanzy saputra",
+      "device_id": "f84c0caa-cdd0-4b90-b7f1-03363193e4c9",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "XMOD",
+      "device_id": "906825ba-58d0-4ebb-a675-f4dbf88cdb1b",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
     }
   ]
 }
