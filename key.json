@@ -2,12 +2,12 @@
   "licenses": [
     {
       "key": "ELITE ONE SQUAD",
-      "device_id": "218b0f7e-15eb-4192-8450-e8c5f678a09a",
+      "device_id": "d951621f-1941-4bd7-8b40-9f0d7333eaff",
       "expiry_date": "2099-12-06",
       "active": true,
       "status": "active",
-      "created_date": "2024-01-01",
-      "max_devices": 1
+      "created_date": "2099-01-01",
+      "max_devices": 2
     }
   ]
 }
