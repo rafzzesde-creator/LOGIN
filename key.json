@@ -8,6 +8,15 @@
       "status": "active",
       "created_date": "2099-01-01",
       "max_devices": 1
+    },
+    {
+      "key": "EOS GENIX",
+      "device_id": "3f67a35d-c8de-4e68-9d4f-feffb61de20c",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
     }
   ]
 }
