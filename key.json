@@ -10,7 +10,7 @@
       "max_devices": 1
     },
     {
-      "key": "RAP",
+      "key": "RAPZ",
       "device_id": "610c75f1-a4cb-483f-b367-fc3967ff5016",
       "expiry_date": "2099-12-06",
       "active": true,
