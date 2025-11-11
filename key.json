@@ -10,7 +10,7 @@
       "max_devices": 1
     },
     {
-      "key": "EOS",
+      "key": "RAP",
       "device_id": "8616219d-f8ab-48e0-9e76-dc8e935b39d7",
       "expiry_date": "2099-12-06",
       "active": true,
