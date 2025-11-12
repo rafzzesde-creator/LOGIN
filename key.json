@@ -70,7 +70,7 @@
       "active": true,
       "status": "active",
       "created_date": "2099-01-01",
-      "max_devices": 1
+      "max_devices": 2
     },
     {
       "key": "RAPZ",
@@ -79,7 +79,7 @@
       "active": true,
       "status": "active",
       "created_date": "2099-01-01",
-      "max_devices": 1
+      "max_devices": 2
     }
     
   ]
