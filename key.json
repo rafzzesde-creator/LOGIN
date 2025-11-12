@@ -62,6 +62,16 @@
       "status": "active",
       "created_date": "2099-01-01",
       "max_devices": 2
+    },
+    {
+      "key": "EOS",
+      "device_id": "bb1878d3-8ac3-4312-97d1-110d393b9343",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 2
     }
+    
   ]
 }
