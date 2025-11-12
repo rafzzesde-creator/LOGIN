@@ -64,13 +64,22 @@
       "max_devices": 2
     },
     {
-      "key": "EOS",
+      "key": "EOS ROAR",
       "device_id": "bb1878d3-8ac3-4312-97d1-110d393b9343",
       "expiry_date": "2099-12-06",
       "active": true,
       "status": "active",
       "created_date": "2099-01-01",
-      "max_devices": 2
+      "max_devices": 1
+    },
+    {
+      "key": "RAPZ",
+      "device_id": "ef20e4d5-959a-4e33-a3c3-4850a994f1e1",
+      "expiry_date": "2099-12-06",
+      "active": true,
+      "status": "active",
+      "created_date": "2099-01-01",
+      "max_devices": 1
     }
     
   ]
