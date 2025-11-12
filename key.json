@@ -10,15 +10,6 @@
       "max_devices": 1
     },
     {
-      "key": "RAPZ",
-      "device_id": "866f36f9-af9b-466a-9771-257362151ecd",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
       "key": "Salsa110207",
       "device_id": "7e0c3eb5-3bcd-41d3-b6a3-b0c9d73f968a",
       "expiry_date": "2099-12-06",
@@ -65,7 +56,7 @@
     },
     {
       "key": "EOS",
-      "device_id": "866f36f9-af9b-466a-9771-257362151ecd",
+      "device_id": "56c47d01-3919-4c90-a267-afdf11785ccb",
       "expiry_date": "2099-12-06",
       "active": true,
       "status": "active",
