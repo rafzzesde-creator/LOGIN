@@ -64,8 +64,8 @@
       "max_devices": 2
     },
     {
-      "key": "EOS ROAR",
-      "device_id": "bb1878d3-8ac3-4312-97d1-110d393b9343",
+      "key": "1234",
+      "device_id": "429259e8-2289-417e-827f-fcdf8c3e4b1f",
       "expiry_date": "2099-12-06",
       "active": true,
       "status": "active",
