@@ -1,86 +1,12 @@
-{
-  "licenses": [
-    {
-      "key": "Fikk",
-      "device_id": "1c792501-5e9e-4dd3-8a30-329975d7fcc9",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "Salsa110207",
-      "device_id": "7e0c3eb5-3bcd-41d3-b6a3-b0c9d73f968a",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "fior imut cewe lenzar",
-      "device_id": "325e1490-65e1-4f43-8649-510f0de63bc1",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "bukaninipatrick",
-      "device_id": "707e52b5-34e1-4f92-80ec-dac8982bad6c",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "sanz putra",
-      "device_id": "e4c5bce8-8e19-42dc-af84-1c748f2a6e35",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "XMOD",
-      "device_id": "906825ba-58d0-4ebb-a675-f4dbf88cdb1b",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 1
-    },
-    {
-      "key": "EOS",
-      "device_id": "56c47d01-3919-4c90-a267-afdf11785ccb",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 2
-    },
-    {
-      "key": "1234",
-      "device_id": "c91627b8-b013-451d-94a0-fda01dc3c1a2",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 2
-    },
-    {
-      "key": "RAPZ",
-      "device_id": "ef20e4d5-959a-4e33-a3c3-4850a994f1e1",
-      "expiry_date": "2099-12-06",
-      "active": true,
-      "status": "active",
-      "created_date": "2099-01-01",
-      "max_devices": 2
-    }
-    
-  ]
-}
+[
+  {
+    "username": "rapz",
+    "password": "123",
+    "devid": "8fb726154562a123"
+  },
+  {
+    "username": "user2",
+    "password": "456",
+    "devid": "99aa88bb77cc66dd"
+  }
+]
