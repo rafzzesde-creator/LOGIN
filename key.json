@@ -1,7 +1,13 @@
-[
 {
-  "username": "RAPZ",
-  "password": "RAPZ",
-  "device_limit": "1"
+  "userOnline": 1,
+  "senderAktif": 0,
+  "users": [
+    {
+      "username": "RAPZ",
+      "password": "RAPZ",
+      "role": "Admin",
+      "device_limit": "1",
+      "expiredDate": "2026-12-31"
+    }
+  ]
 }
-]
