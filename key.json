@@ -2,7 +2,7 @@
   "userOnline": 1,
   "senderAktif": 0,
   "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
-  "banner2Img": "",
+  "banner2Img": "https://files.catbox.moe/86qdh1.mp4",
   "bannerText": "Buy Acces Chat @RAPZ",
   "audio": "",
   "users": [
@@ -12,7 +12,7 @@
       "role": "Admin",
       "device_limit": "1",
       "expiredDate": "8026-12-31",
-      "avatar": "https://files.catbox.moe/m4yq1b.mp4"
+      "avatar": "https://files.catbox.moe/86qdh1.mp4"
     }
   ]
 }
