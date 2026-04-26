@@ -1,7 +1,7 @@
 {
   "userOnline": 1,
   "senderAktif": 0,
-  "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
+  "bannerImg": "https://files.catbox.moe/86qdh1.mp4",
   "banner2Img": "https://files.catbox.moe/86qdh1.mp4",
   "bannerText": "Buy Acces Chat @RAPZ",
   "audio": "",
@@ -11,7 +11,7 @@
       "password": "RAPZ",
       "role": "AdminKyut",
       "device_limit": "1",
-      "expiredDate": "8026-12-31",
+      "expiredDate": "9999-09-09",
       "avatar": "https://files.catbox.moe/86qdh1.mp4"
     }
   ]
