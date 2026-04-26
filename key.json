@@ -12,7 +12,10 @@
       "role": "RapzKyut",
       "device_limit": "1",
       "expiredDate": "9999-09-09",
-      "avatar": "https://files.catbox.moe/m4yq1b.mp4"
+      "avatar": "https://files.catbox.moe/m4yq1b.mp4",
+      "createdAt": "2026-04-26",
+      "senderAktif": 0,
+      "adminMenu": true
     }
   ]
 }
