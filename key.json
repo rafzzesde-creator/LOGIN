@@ -5,6 +5,17 @@
   "banner2Img": "https://files.catbox.moe/86qdh1.mp4",
   "bannerText": "Buy Acces Chat @RAPZ",
   "audio": "",
+  "playlist": [
+    { "name": "Sound 1", "url": "https://files.catbox.moe/86qdh1.mp4" },
+    { "name": "Sound 2", "url": "https://ganti-link-audio-2.mp3" },
+    { "name": "Sound 3", "url": "https://ganti-link-audio-3.mp3" },
+    { "name": "Sound 4", "url": "https://ganti-link-audio-4.mp3" },
+    { "name": "Sound 5", "url": "https://ganti-link-audio-5.mp3" },
+    { "name": "Sound 6", "url": "https://ganti-link-audio-6.mp3" },
+    { "name": "Sound 7", "url": "https://ganti-link-audio-7.mp3" },
+    { "name": "Sound 8", "url": "https://ganti-link-audio-8.mp3" },
+    { "name": "Sound 9", "url": "https://ganti-link-audio-9.mp3" }
+  ],
   "users": [
     {
       "username": "KNTL",
