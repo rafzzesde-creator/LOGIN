@@ -16,6 +16,10 @@
     { "name": "Sound 8", "url": "https://ganti-link-audio-8.mp3" },
     { "name": "Sound 9", "url": "https://ganti-link-audio-9.mp3" }
   ],
+  "catboxPage": {
+    "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
+    "bannerText": "CATBOX UPLOADER"
+  },
   "users": [
     {
       "username": "KNTL",
