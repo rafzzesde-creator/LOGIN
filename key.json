@@ -20,6 +20,13 @@
     "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
     "bannerText": "CATBOX UPLOADER"
   },
+  "cinemaPlaylist": [
+    { "name": "Video 1", "url": "https://files.catbox.moe/86qdh1.mp4" },
+    { "name": "DJ TIKTOK RANDOM 1 JAM", "url": "http://cdn.d4nzepeto.my.id/dmzsound/radio/9.mp4" },
+    { "name": "Video 3", "url": "https://ganti-link-video-3.mp4" },
+    { "name": "Video 4", "url": "https://ganti-link-video-4.mp4" },
+    { "name": "Video 5", "url": "https://ganti-link-video-5.mp4" }
+  ],
   "users": [
     {
       "username": "KNTL",
