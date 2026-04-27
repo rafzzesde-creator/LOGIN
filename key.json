@@ -7,26 +7,72 @@
   "bannerText": "Buy Acces Chat @RAPZ",
   "audio": "",
   "playlist": [
-    { "name": "Late Night Rap Song", "url": "https://dreamzsound.my.id/antingg/9.mp4" },
-    { "name": "DJ TIKTOK RANDOM", "url": "http://cdn.d4nzepeto.my.id/dmzsound/radio/9.mp4" },
-    { "name": "TULUS FULL ALBUM", "url": "https://dreamzsound.my.id/antingg/5.mp4" },
-    { "name": "LAGU BARAT", "url": "https://dreamzsound.my.id/sepatu/2.mp4" },
-    { "name": "Sound 5", "url": "https://ganti-link-audio-5.mp3" },
-    { "name": "Sound 6", "url": "https://ganti-link-audio-6.mp3" },
-    { "name": "Sound 7", "url": "https://ganti-link-audio-7.mp3" },
-    { "name": "Sound 8", "url": "https://ganti-link-audio-8.mp3" },
-    { "name": "Sound 9", "url": "https://ganti-link-audio-9.mp3" }
+    {
+      "name": "Late Night Rap Song",
+      "url": "https://dreamzsound.my.id/antingg/9.mp4"
+    },
+    {
+      "name": "DJ TIKTOK RANDOM",
+      "url": "http://cdn.d4nzepeto.my.id/dmzsound/radio/9.mp4"
+    },
+    {
+      "name": "TULUS FULL ALBUM",
+      "url": "https://dreamzsound.my.id/antingg/5.mp4"
+    },
+    {
+      "name": "LAGU BARAT",
+      "url": "https://dreamzsound.my.id/sepatu/2.mp4"
+    },
+    {
+      "name": "Sound 5",
+      "url": "https://ganti-link-audio-5.mp3"
+    },
+    {
+      "name": "Sound 6",
+      "url": "https://ganti-link-audio-6.mp3"
+    },
+    {
+      "name": "Sound 7",
+      "url": "https://ganti-link-audio-7.mp3"
+    },
+    {
+      "name": "Sound 8",
+      "url": "https://ganti-link-audio-8.mp3"
+    },
+    {
+      "name": "Sound 9",
+      "url": "https://ganti-link-audio-9.mp3"
+    }
   ],
   "catboxPage": {
     "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
     "bannerText": "CATBOX UPLOADER"
   },
   "cinemaPlaylist": [
-    { "name": "Video 1", "url": "https://ganti-link-video-1.mp4" },
-    { "name": "video 2", "url": "https://ganti-link-video-2.mp4" },
-    { "name": "Video 3", "url": "https://ganti-link-video-3.mp4" },
-    { "name": "Video 4", "url": "https://ganti-link-video-4.mp4" },
-    { "name": "Video 5", "url": "https://ganti-link-video-5.mp4" }
+    {
+      "name": "Video 1",
+      "url": "https://ganti-link-video-1.mp4"
+    },
+    {
+      "name": "video 2",
+      "url": "https://ganti-link-video-2.mp4"
+    },
+    {
+      "name": "Video 3",
+      "url": "https://ganti-link-video-3.mp4"
+    },
+    {
+      "name": "Video 4",
+      "url": "https://ganti-link-video-4.mp4"
+    },
+    {
+      "name": "Video 5",
+      "url": "https://ganti-link-video-5.mp4"
+    },
+    {
+      "name": "Rapz",
+      "url": "https://files.catbox.moe/bi5aeo.jpg"
+    }
   ],
   "users": [
     {
