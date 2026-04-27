@@ -1,16 +1,11 @@
 {
   "userOnline": 1,
   "senderAktif": 0,
-  "modMenuIcon": "https://files.catbox.moe/bi5aeo.jpg",
-  "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
-  "banner2Img": "https://files.catbox.moe/86qdh1.mp4",
   "bannerText": "Buy Acces Chat @RAPZ",
-  "audio": "https://dreamzsound.my.id/sepatu/2.mp4",
   "popup": {
     "enabled": true,
     "chip": "INFO",
     "title": "Informasi",
-    "bannerUrl": "https://files.catbox.moe/86qdh1.mp4",
     "text": "Isi info popup di sini.\nBisa multi-line juga."
   },
   "playlist": [
@@ -25,7 +20,6 @@
     { "name": "Sound 9", "url": "https://ganti-link-audio-9.mp3" }
   ],
   "catboxPage": {
-    "bannerImg": "https://files.catbox.moe/y2eg2d.gif",
     "bannerText": "CATBOX UPLOADER"
   },
   "cinemaPlaylist": [
