@@ -19,6 +19,16 @@
       "createdAt": "2026-04-27",
       "senderAktif": 0,
       "adminMenu": true
+    },
+    {
+      "username": "666",
+      "password": "666",
+      "role": "666",
+      "device_limit": "1",
+      "expiredDate": "2026-05-07",
+      "createdAt": "2026-04-28",
+      "senderAktif": 0,
+      "adminMenu": true
     }
   ]
 }
