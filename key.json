@@ -4,73 +4,13 @@
   "bannerText": "Buy Acces Chat @RAPZ",
   "popup": {
     "enabled": true,
-    "chip": "INFO",
-    "title": "Informasi",
-    "text": "Isi info popup di sini.\nBisa multi-line juga."
+    "chip": "RULES",
+    "title": "BY RAPZ",
+    "text": "KONTOL LU"
   },
-  "playlist": [
-    {
-      "name": "Late Night Rap Song",
-      "url": "https://dreamzsound.my.id/antingg/9.mp4"
-    },
-    {
-      "name": "DJ TIKTOK RANDOM",
-      "url": "http://cdn.d4nzepeto.my.id/dmzsound/radio/9.mp4"
-    },
-    {
-      "name": "TULUS FULL ALBUM",
-      "url": "https://dreamzsound.my.id/antingg/5.mp4"
-    },
-    {
-      "name": "LAGU BARAT",
-      "url": "https://dreamzsound.my.id/sepatu/2.mp4"
-    },
-    {
-      "name": "Sound 5",
-      "url": "https://ganti-link-audio-5.mp3"
-    },
-    {
-      "name": "Sound 6",
-      "url": "https://ganti-link-audio-6.mp3"
-    },
-    {
-      "name": "Sound 7",
-      "url": "https://ganti-link-audio-7.mp3"
-    },
-    {
-      "name": "Sound 8",
-      "url": "https://ganti-link-audio-8.mp3"
-    },
-    {
-      "name": "Sound 9",
-      "url": "https://ganti-link-audio-9.mp3"
-    }
-  ],
   "catboxPage": {
     "bannerText": "CATBOX UPLOADER"
   },
-  "cinemaPlaylist": [
-    {
-      "name": "Video 1",
-      "url": ""
-    },
-    {
-      "name": "video 2",
-      "url": "https://ganti-link-video-2.mp4"
-    },
-    {
-      "name": "Video 3",
-      "url": "https://ganti-link-video-3.mp4"
-    },
-    {
-      "name": "Video 4",
-      "url": "https://ganti-link-video-4.mp4"
-    },
-    {
-      "name": "Video 5",
-      "url": "https://ganti-link-video-5.mp4"
-    }
-  ],
   "users": [
     {
       "username": "Rapz",
@@ -78,7 +18,6 @@
       "role": "RapzKyut",
       "device_limit": "1",
       "expiredDate": "9999-09-09",
-      "avatar": "https://files.catbox.moe/m4yq1b.mp4",
       "createdAt": "2026-04-27",
       "senderAktif": 0,
       "adminMenu": true
@@ -90,16 +29,6 @@
       "device_limit": "1",
       "expiredDate": "2026-04-27",
       "createdAt": "2026-04-27",
-      "senderAktif": 0,
-      "adminMenu": true
-    },
-    {
-      "username": "666",
-      "password": "666",
-      "role": "666",
-      "device_limit": "1",
-      "expiredDate": "2026-05-06",
-      "createdAt": "2026-04-28",
       "senderAktif": 0,
       "adminMenu": true
     }
