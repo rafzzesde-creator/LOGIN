@@ -1,17 +1,4 @@
 {
-  "userOnline": 1,
-  "senderAktif": 0,
-  "bannerText": "Buy Acces Chat @RAPZ",
-  "popup": {
-    "enabled": true,
-    "chip": "INFO",
-    "title": "Informasi",
-    "bannerUrl": "https://files.catbox.moe/wnk6it.mp4",
-    "text": "Isi info popup di sini.\nBisa multi-line juga."
-  },
-  "catboxPage": {
-    "bannerText": "CATBOX UPLOADER"
-  },
   "users": [
     {
       "username": "Rapz",
