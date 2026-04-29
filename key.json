@@ -26,8 +26,8 @@
       "role": "666",
       "device_limit": "1",
       "expiredDate": "2026-05-07",
-      "createdAt": "2026-04-28",
-      "senderAktif": 0,
+      "createdAt": "2026-04-29",
+      "senderAktif": 1,
       "adminMenu": true
     }
   ]
