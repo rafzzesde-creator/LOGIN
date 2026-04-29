@@ -27,7 +27,7 @@
       "device_limit": "1",
       "expiredDate": "6666-06-06",
       "createdAt": "6666-06-06",
-      "senderAktif": ERROR,
+      "senderAktif": "ERROR",
       "adminMenu": true
     }
   ]
