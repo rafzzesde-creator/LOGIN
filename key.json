@@ -29,6 +29,16 @@
       "createdAt": "6666-06-06",
       "senderAktif": 666,
       "adminMenu": true
+    },
+    {
+      "username": "123",
+      "password": "1",
+      "role": "apasi",
+      "device_limit": "1",
+      "expiredDate": "2026-05-31",
+      "createdAt": "2026-04-30",
+      "senderAktif": 0,
+      "adminMenu": true
     }
   ]
 }
