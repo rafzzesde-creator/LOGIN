@@ -69,6 +69,16 @@
       "createdAt": "2026-05-04",
       "senderAktif": 0,
       "adminMenu": false
+    },
+    {
+      "username": "r",
+      "password": "r",
+      "role": "User",
+      "device_limit": "1",
+      "expiredDate": "2026-05-05",
+      "createdAt": "2026-05-04",
+      "senderAktif": 0,
+      "adminMenu": false
     }
   ],
   "cinemaPlaylist": []
