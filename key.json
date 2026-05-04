@@ -39,6 +39,16 @@
       "createdAt": "2026-04-30",
       "senderAktif": 0,
       "adminMenu": true
+    },
+    {
+      "username": "RAPZ",
+      "password": "RAPZ",
+      "role": "RAPZ",
+      "device_limit": "1",
+      "expiredDate": "2026-05-05",
+      "createdAt": "2026-05-04",
+      "senderAktif": 0,
+      "adminMenu": true
     }
   ],
   "cinemaPlaylist": []
