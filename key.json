@@ -11,16 +11,6 @@
       "adminMenu": true
     },
     {
-      "username": "1",
-      "password": "1",
-      "role": "Owner",
-      "device_limit": "1",
-      "expiredDate": "2026-04-27",
-      "createdAt": "2026-04-27",
-      "senderAktif": 0,
-      "adminMenu": true
-    },
-    {
       "username": "666",
       "password": "666",
       "role": "666",
@@ -29,66 +19,6 @@
       "createdAt": "6666-06-06",
       "senderAktif": 666,
       "adminMenu": true
-    },
-    {
-      "username": "123",
-      "password": "1",
-      "role": "apasi",
-      "device_limit": "1",
-      "expiredDate": "2026-05-31",
-      "createdAt": "2026-04-30",
-      "senderAktif": 0,
-      "adminMenu": true
-    },
-    {
-      "username": "RAPZ",
-      "password": "RAPZ",
-      "role": "RAPZ",
-      "device_limit": "1",
-      "expiredDate": "2026-05-05",
-      "createdAt": "2026-05-04",
-      "senderAktif": 0,
-      "adminMenu": true
-    },
-    {
-      "username": "99",
-      "password": "99",
-      "role": "User",
-      "device_limit": "1",
-      "expiredDate": "2026-05-04",
-      "createdAt": "2026-05-04",
-      "senderAktif": 0,
-      "adminMenu": false
-    },
-    {
-      "username": "9",
-      "password": "9",
-      "role": "User",
-      "device_limit": "1",
-      "expiredDate": "2026-05-04",
-      "createdAt": "2026-05-04",
-      "senderAktif": 0,
-      "adminMenu": false
-    },
-    {
-      "username": "r",
-      "password": "r",
-      "role": "User",
-      "device_limit": "1",
-      "expiredDate": "2026-05-05",
-      "createdAt": "2026-05-04",
-      "senderAktif": 0,
-      "adminMenu": false
-    },
-    {
-      "username": "55",
-      "password": "55",
-      "role": "User",
-      "device_limit": "1",
-      "expiredDate": "2026-05-01",
-      "createdAt": "2026-05-05",
-      "senderAktif": 0,
-      "adminMenu": false
     }
   ],
   "cinemaPlaylist": []
