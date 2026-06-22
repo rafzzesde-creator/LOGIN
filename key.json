@@ -1,3 +1,19 @@
-KEY-RAPZ001|ae72c11c5efc18c9|2026-12-31
-KEY-RAPZ002|f4a9b2c3d8e1f5g6|2027-01-15
-KEY-RAPZ003|h7i8j9k0l1m2n3o4|2027-06-30
+{
+  "credentials": [
+    {
+      "KEY": "RAPZ",
+      "EXPIRED_DATE": "2026-12-31",
+      "DEVICE_ID": "ae72c11c5efc18c9"
+    },
+    {
+      "KEY": "ADMIN123",
+      "EXPIRED_DATE": "2027-01-15",
+      "DEVICE_ID": "f4a9b2c3d8e1f5g6"
+    },
+    {
+      "KEY": "USER001",
+      "EXPIRED_DATE": "2026-06-30",
+      "DEVICE_ID": "h7i8j9k0l1m2n3o4"
+    }
+  ]
+}
